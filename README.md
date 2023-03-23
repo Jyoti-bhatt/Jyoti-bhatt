@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jyoti-bhatt
 - 👀 I’m interested in learning new  things
-- 🌱 I’m currently Reactjs
+- 🌱 I’m currently working on Reactjs
 
 
 <!---
